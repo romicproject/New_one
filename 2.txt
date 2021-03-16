@@ -1,2 +1,6 @@
 primul test in fis 2.txt
+<<<<<<< HEAD
 acesta estea adoua schimbare aici
+=======
+inseram o noua linie dar din GitHub acum 
+>>>>>>> ac51e128aa43bd0297b997ef968b552015df53de
